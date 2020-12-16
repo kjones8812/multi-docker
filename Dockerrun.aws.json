@@ -27,7 +27,7 @@
       "image":"kjones8812/nginx" ,
       "hostname": "nginx",
       "essential": true,
-      "memory":128
+      "memory":128,
       "portmappings": [
         {
           "hostPort": 80,
